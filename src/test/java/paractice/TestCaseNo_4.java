@@ -31,5 +31,6 @@ public void enterclearandcaptureTheText() throws InterruptedException {
     emailbox.clear();
     ele.clear();
     driver.close();
+    driver.quit();
 }
 }

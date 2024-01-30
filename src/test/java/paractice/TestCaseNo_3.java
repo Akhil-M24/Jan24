@@ -60,7 +60,7 @@ public class TestCaseNo_3 {
 		 
 		 
 		 
-        driver.close();
+        driver.quit();
        
 	}
 }

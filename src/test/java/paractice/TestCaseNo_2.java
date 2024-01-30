@@ -35,7 +35,7 @@ public void autosuggetions()
 	}
 	
 	
-	driver.close();
+	driver.quit();
 	
 }
 }
