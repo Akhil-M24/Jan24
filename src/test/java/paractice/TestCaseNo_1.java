@@ -61,7 +61,7 @@ public class TestCaseNo_1 {
 	
 		
 		
-		
+		driver.close();
 		
 		
 		
